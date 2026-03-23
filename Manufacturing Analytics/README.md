@@ -11,6 +11,7 @@ Develop dashboards for real-time monitoring
 Power BI – Data modeling, DAX calculations, interactive dashboards
 SQL – Data extraction, aggregation, and transformation
 Microsoft Excel – Data cleaning, preprocessing, and validation
+
 📂 Dataset
 
 Worked with structured manufacturing data including:
@@ -20,22 +21,26 @@ Produced Quantity
 Product Category
 Production Date
 Total Value (Revenue)
+
 📈 Key Metrics & Calculations
 Wastage Quantity = Work Order Qty − Produced Qty
 Wastage % = (Wastage / Work Order Qty) × 100
 Production Efficiency = (Produced Qty / Work Order Qty) × 100
 Average Revenue per Unit = Total Value / Produced Qty
+
 📊 Dashboard Features (Power BI)
 KPI cards for Production, Wastage %, and Efficiency
 Production vs Target comparison visuals
 Product-wise wastage analysis
 Revenue trends over time
 Interactive filters (Product, Category, Date)
+
 💡 Key Insights
 Identified high-wastage products impacting overall efficiency
 Detected gaps between planned and actual production
 Highlighted trends affecting revenue performance
 Suggested areas for process optimization
+
 🚀 Business Impact
 Improved visibility into production performance
 Enabled data-driven decision-making
